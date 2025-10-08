@@ -1,12 +1,12 @@
 <p align="center">
-  <a href="https://github.com/SpotX-Official/SpotX/releases"><img src="https://spotx-official.github.io/images/logos/logo.png" /></a>
+  <a href="https://github.com/spotxofficial/SpotX/releases/tag/release"><img src="https://spotx-official.github.io/images/logos/logo.png" /></a>
 </p>
 
 <p align="center">
-      <a href="https://t.me/spotify_windows_mod"><img src="https://spotx-official.github.io/images/shields/SpotX_Channel.svg"></a>
-        <a href="https://t.me/SpotxCommunity"><img src="https://spotx-official.github.io/images/shields/SpotX_Community.svg"></a>
-        <a href="https://github.com/SpotXOfficial/SpotX"><img src="https://spotx-official.github.io/images/shields/SpotX_for_Mac&Linux.svg"></a>
-        <a href="https://telegra.ph/SpotX-FAQ-09-19"><img src="https://spotx-official.github.io/images/shields/faq.svg"></a>
+      <a href="https://github.com/spotxofficial/SpotX/releases/tag/release"><img src="https://spotx-official.github.io/images/shields/SpotX_Channel.svg"></a>
+        <a href="https://github.com/spotxofficial/SpotX/releases/tag/release"><img src="https://spotx-official.github.io/images/shields/SpotX_Community.svg"></a>
+        <a href="https://github.com/spotxofficial/SpotX/releases/tag/release"><img src="https://spotx-official.github.io/images/shields/SpotX_for_Mac&Linux.svg"></a>
+        <a href="https://github.com/spotxofficial/SpotX/releases/tag/release"><img src="https://spotx-official.github.io/images/shields/faq.svg"></a>
         </p>
          <h2> <div align="center"><b> Patcher for Spotify Desktop Client on Windows </b></div> </h2>
 
@@ -22,7 +22,7 @@
 <h1 id="requirements">Requirements</h1>
 
 - **OS:** Windows 7-11
-- **Spotify:** [Official desktop version](https://loadspot.pages.dev) (Microsoft Store version is not suitable)
+- **SpotX:** [Official desktop version](https://github.com/spotxofficial/SpotX/releases/tag/release) (Microsoft Store version is not suitable)
 
 <h1 id="features">Features</h1>
 
@@ -31,7 +31,7 @@
 - **Block Spotify automatic updates** (optional)
 - **Some native experimental features have been changed**
 - **Analytics sending has been disabled** 
-- **Advanced installation [parameters](https://github.com/spotxofficial/SpotX/discussions/60)**
+- **Advanced installation [parameters](https://github.com/spotxofficial/SpotX/releases/tag/release)**
 
 <h1 id="installation--update">Installation / Update</h1>
 <h3>Choose installation type:</h3>
